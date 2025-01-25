@@ -34,7 +34,7 @@ scoop install mangaldown
 ```
 
 Use mangal in cmd and search "One Piece" to view (download and view)
-
+[One_Piece_[0001]_Chapter_1.pdf](./One_Piece_[0001]_Chapter_1.pdf)
 
 ## Try it!
 
