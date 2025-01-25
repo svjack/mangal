@@ -17,6 +17,11 @@
     <img alt="Mangal 4 TUI" src="assets/tui.gif">
 </p>
 
+```bash
+curl -LO https://github.com/metafates/mangal/releases/download/v4.0.0/mangal_4.0.0_amd64.deb
+sudo chmod 644 mangal_4.0.0_amd64.deb
+sudo apt install ./mangal_4.0.0_amd64.deb
+```
 
 ## Try it!
 
