@@ -30,8 +30,10 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 scoop bucket add extras
-scoop install mangal
+scoop install mangaldown
 ```
+
+Use mangal in cmd and search "One Piece" to view (download and view)
 
 
 ## Try it!
