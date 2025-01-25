@@ -17,11 +17,22 @@
     <img alt="Mangal 4 TUI" src="assets/tui.gif">
 </p>
 
+- Linux
 ```bash
 curl -LO https://github.com/metafates/mangal/releases/download/v4.0.0/mangal_4.0.0_amd64.deb
 sudo chmod 644 mangal_4.0.0_amd64.deb
 sudo apt install ./mangal_4.0.0_amd64.deb
 ```
+- Windows
+- In PowerShell
+```ps
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+
+scoop bucket add extras
+scoop install mangal
+```
+
 
 ## Try it!
 
